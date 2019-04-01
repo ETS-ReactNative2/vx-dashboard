@@ -1,0 +1,166 @@
+export default {
+  data: [
+    {
+      label: 'Series 1',
+      data: [[0, 1], [1, 2], [2, 4], [3, 2], [4, 2]],
+    },
+    {
+      label: 'Series 2',
+      data: [[0, 3], [1, 1], [2, 5], [3, 6], [4, 4]],
+    },
+    {
+      label: 'Series 3',
+      data: [[0, 2], [1, 5], [2, 4], [3, 2], [4, 5]],
+    },
+  ],
+  data2: [
+    { name: 'Apr', uv: 1 },
+    { name: 'May', uv: 2 },
+    { name: 'Jun', uv: 3 },
+    { name: 'Jul', uv: 6 },
+    { name: 'Aug', uv: 4 },
+    { name: 'Sep', uv: 5 },
+  ],
+  data3: [
+    {
+      name: 'Jan',
+      uv: 16,
+      pv: 3,
+      amt: 100,
+    },
+    {
+      name: 'Feb',
+      uv: 2,
+      pv: 15,
+      amt: 10,
+    },
+    {
+      name: 'Mar',
+      uv: 3,
+      pv: 9,
+      amt: 1,
+    },
+    {
+      name: 'Apr',
+      uv: 5,
+      pv: 6,
+      amt: 1,
+    },
+    {
+      name: 'May',
+      uv: 3,
+      pv: 8,
+      amt: 2181,
+    },
+    {
+      name: 'Jun',
+      uv: 9,
+      pv: 3,
+      amt: 1,
+    },
+    {
+      name: 'Jul',
+      uv: 11,
+      pv: 4,
+      amt: 1,
+    },
+    {
+      name: 'Aug',
+      uv: 8,
+      pv: 5,
+      amt: 1,
+    },
+    {
+      name: 'Sep',
+      uv: 10,
+      pv: 7,
+      amt: 1,
+    },
+    {
+      name: 'Oct',
+      uv: 18,
+      pv: 11,
+      amt: 1,
+    },
+    {
+      name: 'Now',
+      uv: 2,
+      pv: 7,
+      amt: 1,
+    },
+  ],
+
+  data4: [
+    {
+      name: 'Jan',
+      uv: 4000,
+      pv: 2400,
+      amt: 2400,
+    },
+    {
+      name: 'Feb',
+      uv: 3000,
+      pv: 1398,
+      amt: 2210,
+    },
+    {
+      name: 'Mar',
+      uv: 2000,
+      pv: 9800,
+      amt: 2290,
+    },
+    {
+      name: 'Apr',
+      uv: 2780,
+      pv: 3908,
+      amt: 2000,
+    },
+    {
+      name: 'May',
+      uv: 1890,
+      pv: 4800,
+      amt: 2181,
+    },
+    {
+      name: 'Jun',
+      uv: 2390,
+      pv: 3800,
+      amt: 2500,
+    },
+    {
+      name: 'Jul',
+      uv: 3490,
+      pv: 4300,
+      amt: 2100,
+    },
+    {
+      name: 'Aug',
+      uv: 1000,
+      pv: 4300,
+      amt: 2100,
+    },
+    {
+      name: 'Sep',
+      uv: 3490,
+      pv: 4300,
+      amt: 2100,
+    },
+    {
+      name: 'Now',
+      uv: 3490,
+      pv: 3200,
+      amt: 2000,
+    },
+  ],
+  data5: [
+    { name: 'Apr', uv: 1 },
+    { name: 'May', uv: 2 },
+    { name: 'Jun', uv: 3 },
+    { name: 'Jul', uv: 6 },
+    { name: 'Aug', uv: 4 },
+    { name: 'Sep', uv: 5 },
+    { name: 'Oct', uv: 3 },
+    { name: 'Nov', uv: 2 },
+    { name: 'Dec', uv: 5 },
+  ],
+};
